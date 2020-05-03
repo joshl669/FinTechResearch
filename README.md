@@ -66,7 +66,11 @@ The market is reaching above $2 Trillion and growing.
 A market breakout from McKinsey shows the following:
 ___
 
-![Fintech](McKinseychart.png)
+- Asia Pacific Commercial Driven $880B
+- North America Credit Card Driven $515B
+- EMEA Balanced $345B
+- LatAM Credit Card and Liquidity Driven $210B
+
 
 ___
 
